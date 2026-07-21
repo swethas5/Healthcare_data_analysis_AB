@@ -1,3 +1,5 @@
+---Source files uploaded to online free CSV uploader and SQL Editor - CSVFiddle.
+--- Checked for null member ids in the files using SQL queries in both members and claims table.
 ---- Claim Type Cost Breakdown
 
 with claim_summary as
